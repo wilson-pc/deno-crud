@@ -3,7 +3,7 @@
 ## Herramientas
 
 - Alosaur - Deno web framework [Alosaur](https://github.com/alosaur/alosaur)
-  -MySQL driver for Deno [MySQL](https://github.com/manyuanrong/deno_mysql)
+- MySQL driver for Deno [MySQL](https://github.com/manyuanrong/deno_mysql)
 
 ## Run
 
