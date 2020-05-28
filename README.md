@@ -7,4 +7,8 @@
 
 ## Run
 
-Run `deno run --allow-net --allow-read --config ./src/tsconfig.app.json app.ts` to run the project.
+cmd `deno run --allow-net --allow-read --config tsconfig.app.json app.ts` para ejecutar el proyecto.
+
+## Base Route
+
+- Users `http://localhost:8000/api/users/`
